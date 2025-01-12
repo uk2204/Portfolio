@@ -10,6 +10,7 @@ import { BsFiletypeHtml } from "react-icons/bs";
 import { FaJava } from "react-icons/fa6";
 import { ReactTyped, Typed } from "react-typed";
 import uk from "../../public/uk.jpeg";
+
 function Home() {
   return (
     <>

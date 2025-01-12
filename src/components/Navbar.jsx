@@ -10,7 +10,8 @@ function Navbar() {
     { id: 2, text: "About" },
     { id: 3, text: "Portfolio" },
     { id: 4, text: "Experience" },
-    { id: 5, text: "Contact" },
+    { id: 5, text: "Resume" },
+    { id: 6, text: "Contact" },
   ];
   return (
     <>
