@@ -46,19 +46,29 @@ function About() {
         <span>Percentage:87.60</span>
       </p>
       <br></br>
-      <h1 className="text-green-600 text-xl font-semibold">
+      <h1 className="text-green-600 text-xl font-semibold mb-1">
         Skills & Expertise
       </h1>
       <p>
-        Proficient in [Programming Languages] Experienced with [Software
-        Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-        Excellent problem-solving skills Effective communicator and collaborator
+        AEM: <span className="italic text-zinc-500">Experienced</span>
       </p>
+      <p>
+        Javascript: <span className="italic text-zinc-500">Experienced</span>
+      </p>
+      <p>
+        HTML: <span className="italic text-zinc-500">Experienced</span>
+      </p>
+      <p>
+        CSS: <span className="italic text-zinc-500">Experienced</span>
+      </p>
+      <p>
+        React JS: <span className="italic text-zinc-500">Skillful</span>
+      </p>
+
       <br></br>
       <h1 className="text-green-600 text-xl font-semibold">
         Professional Experience
       </h1>
-
       <p>
         <p className="text-orange-600 text-md font-semibold mt-2">
           Tata Consultancy Services (System Engineer) (October 2020 to June
