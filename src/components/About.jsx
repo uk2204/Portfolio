@@ -111,10 +111,12 @@ function About() {
       <h1 className="text-green-600 text-xl font-semibold">Achievements</h1>
       <ul>
         <a href="https://www.udemy.com/certificate/UC-ff84cfda-c5e3-4276-8b43-d9d540ed5e32/">
-          <li>Udemy certification on HTML, CSS & BOOTSTRAP, JAVASCRIPT</li>
+          <li className="underline">
+            Udemy certification on HTML, CSS & BOOTSTRAP, JAVASCRIPT
+          </li>
         </a>
         <a href="https://certification.adobe.com/credential/verify/e9288aa7-bc59-11ef-8f8b-42010a40001c">
-          <li>
+          <li className="underline">
             Adobe Certified Expert – Adobe Experience Manager Sites Developer
           </li>
         </a>
